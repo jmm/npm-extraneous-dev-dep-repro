@@ -6,6 +6,14 @@ Ubuntu 12.04
 node@5.6.0  
 npm@3.9.0  
 
+It has something to do with the `_requiredBy` inserted in the `package.json` of the module that becomes extraneous:
+
+```js
+"_requiredBy": [
+  "#DEV:/"
+],
+```
+
 # Instructions
 
 ```
