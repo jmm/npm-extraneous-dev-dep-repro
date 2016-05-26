@@ -2,9 +2,9 @@ Listing of extraneous packages doesn't work as expected when a package was insta
 
 Environment:
 
-Ubuntu 12.04
-node@5.6.0
-npm@3.9.0
+Ubuntu 12.04  
+node@5.6.0  
+npm@3.9.0  
 
 # Instructions
 
